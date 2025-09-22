@@ -1,7 +1,8 @@
 # 🌌 Shards of Wistoria
 _A 2D Pixel Art Action RPG (Magic + Survival)_
 
-<img width="1536" height="1024" alt="Shards Of Wistoria" src="https://github.com/user-attachments/assets/de8e77a9-6e7d-4103-bfe8-f529bdd9e766" />
+![Uploading Shards Of Wistoria.png…]()
+
 
 ## 🎮 Overview
 Explore a shattered magical kingdom, master elemental powers, and restore balance by reclaiming lost crystals.
