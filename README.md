@@ -5,7 +5,7 @@ _A 2D Pixel Art Action RPG (Magic + Survival)_
 
 
 ## 🎮 Overview
-Explore a shattered magical kingdom, master elemental powers, and restore balance by reclaiming lost crystals.
+A fractured magical realm filled with perilous beasts and obscure locations. The means to acquire elemental powers exists through learning and mastery, challenges and achievements, and the opportunity to restore order via the wayward crystals. Different domains require travel—forests, mountainous terrains, frozen tundras, burning wastelands—but as challenges arise and victories are won, the kingdom is restored to hope.
 
 **Genre:** Action RPG / Metroidvania  
 **Engine:** Unity (C#)  
