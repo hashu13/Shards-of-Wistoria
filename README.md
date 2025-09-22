@@ -1,7 +1,7 @@
 # 🌌 Shards of Wistoria
 _A 2D Pixel Art Action RPG (Magic + Survival)_
 
-![Uploading Shards Of Wistoria.png…]()
+<img width="1536" height="1024" alt="Shards Of Wistoria" src="https://github.com/user-attachments/assets/cd808121-accb-4dba-a50f-6f82ed4afde1" />
 
 
 ## 🎮 Overview
